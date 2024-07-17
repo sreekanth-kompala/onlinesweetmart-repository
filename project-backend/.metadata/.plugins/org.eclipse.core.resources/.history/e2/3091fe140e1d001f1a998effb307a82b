@@ -1,0 +1,5 @@
+package com.cg.onlinesweetmart.dto;
+
+public class UserResponseDto {
+
+}
